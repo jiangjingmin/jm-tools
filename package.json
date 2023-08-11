@@ -1,6 +1,6 @@
 {
   "name": "jjm-tools",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "一个 JavaScript 前端工具集",
   "main": "src/index.js",
   "scripts": {
