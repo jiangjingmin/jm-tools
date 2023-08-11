@@ -1,0 +1,15 @@
+{
+  "name": "mortal",
+  "version": "1.0.0",
+  "description": "一个简单的脚手架",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

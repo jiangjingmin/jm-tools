@@ -1,0 +1,29 @@
+{
+  "name": "mortal-cli-jmjiang",
+  "version": "1.0.0",
+  "description": "一个简单的脚手架",
+  "main": "index.js",
+  "bin": {
+    "mortal": "./bin/index.js"
+  },
+  "scripts": {
+    "mortal": "node ./bin/index.js"
+  },
+  "keywords": [
+    "jm-tools-cli",
+    "jm-tools"
+  ],
+  "author": "jiangjingmin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangjingmin/jm-tools-cli.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "copy-dir": "^1.3.0",
+    "inquirer": "8.2.5",
+    "mustache": "^4.2.0",
+    "ora": "5.4.1",
+    "yargs": "^17.7.2"
+  }
+}
